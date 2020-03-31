@@ -1,0 +1,28 @@
+OPTIMIZE_OUTPUT_FOR_C  = YES
+
+HAVE_DOT               = YES
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+CALL_GRAPH             = YES
+
+INPUT                  =
+RECURSIVE              = YES
+
+GENERATE_HTML          = YES
+HTML_HEADER            =
+HTML_FOOTER            =
+HTML_STYLESHEET        =
+
+GENERATE_TREEVIEW      = YES
+
+GENERATE_LATEX         = NO
+LATEX_HEADER           =
+LATEX_FOOTER           =
+LATEX_EXTRA_STYLESHEET =
+
+GENERATE_RTF           = NO
+RTF_STYLESHEET_FILE    =
+RTF_EXTENSIONS_FILE    =
+
+CALLER_GRAPH           = NO
